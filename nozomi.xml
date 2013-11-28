@@ -22,6 +22,9 @@
 
   <remote name="feherneoh"
            fetch="git://github.com/feherneoh" />
+  
+  <remote name="nareshvangapati"
+           fetch="git://github.com/nareshvangapati" />
 
   <default revision="refs/heads/ics"
            remote="github"
